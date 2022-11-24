@@ -1,0 +1,2 @@
+import{d as t}from"./index.5fbea382.js";import"./index.ea0ad671.js";import"./iframe.f6b6a7c9.js";import"./index.fd13330e.js";import"./jsx-runtime.aca956f8.js";const i={title:"Data display/Toast",component:t,args:{title:"Appointment made successfully",content:"Wednesday, October 23 at 16h"}},m={},n=["Primary"];export{m as Primary,n as __namedExportsOrder,i as default};
+//# sourceMappingURL=Toast.stories.864d0dac.js.map
